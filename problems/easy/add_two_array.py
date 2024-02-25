@@ -11,4 +11,4 @@ array2 = [4, 5, 6]
 result_array = sorted(append_arrays(array1, array2))
 sorted_array = [num for num in result_array if num != 0 and num % 2 != 0]
 print(sorted_array)
-print("Hello")
+
